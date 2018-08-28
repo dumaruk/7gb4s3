@@ -9,6 +9,6 @@
 class Base
 {
     function ini() {
-        echo "inicio";
+        echo "inicio 2";
     }
 }
