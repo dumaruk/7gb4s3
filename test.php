@@ -6,7 +6,7 @@
  * Time: 15:02
  */
 
-echo "dentro de BASE<HR>";
+echo "Dentro de BASE<HR>";
 
 include("Base.php");
 
