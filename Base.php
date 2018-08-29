@@ -9,6 +9,6 @@
 class Base
 {
     public static function ini() {
-        echo "Test";
+        echo "Test interno na Base";
     }
 }
