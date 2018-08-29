@@ -8,7 +8,7 @@
 
 class Base
 {
-    function ini() {
+    public static function ini() {
         echo "Test";
     }
 }
